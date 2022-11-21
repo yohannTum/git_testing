@@ -4,3 +4,4 @@ testing a push to master # didn't worked :'( -> bc we are in a private github pr
 Test for moving a commit to another branch
 another yolo
 testing a push to master
+new commit
